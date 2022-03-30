@@ -24,6 +24,7 @@ SEUCK game:
 You SEUCK/Sideways scrolling SEUCK game must be loaded as a finished game state (or perhaps loaded and de-frozen from any cartridge). After your game has finished loading. Press the Freeze button on your Action Replay and save the finished game in two separate parts from the machine code monitor. 
 
 S "MYGAMEPT1",8,0900,6580
+
 S "MYGAMEPT2",8,6580,B6C0
 
 It is very important that you save the game as two segments, as memory between $6580-$B6C0 is saved for the data and code for the enhancements.
