@@ -18,10 +18,10 @@ Requirements:
 * Game created using the Shoot Em Up Construction Kit or the Sideways Scrolling SEUCK -Left
 * Dir Master (For making your disk with the game inside)
 
-Instructions:
+#Instructions:
 
-SEUCK game:
-You SEUCK/Sideways scrolling SEUCK game must be loaded as a finished game state (or perhaps loaded and de-frozen from any cartridge). After your game has finished loading. Press the Freeze button on your Action Replay and save the finished game in two separate parts from the machine code monitor. 
+Load in your SEUCK game:
+Your SEUCK/Sideways scrolling SEUCK game must be loaded as a finished game state (or perhaps loaded and de-frozen from any cartridge). After your game has finished loading. Press the Freeze button on your Action Replay and save the finished game in two separate parts from the machine code monitor. 
 
 S "MYGAMEPT1",8,0900,6580
 
