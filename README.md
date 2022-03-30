@@ -18,7 +18,7 @@ Requirements:
 * Game created using the Shoot Em Up Construction Kit or the Sideways Scrolling SEUCK -Left
 * Dir Master (For making your disk with the game inside)
 
-#Instructions:
+# Instructions:
 
 Load in your SEUCK game:
 Your SEUCK/Sideways scrolling SEUCK game must be loaded as a finished game state (or perhaps loaded and de-frozen from any cartridge). After your game has finished loading. Press the Freeze button on your Action Replay and save the finished game in two separate parts from the machine code monitor. 
@@ -43,7 +43,7 @@ NOTE: You must set the correct patch and run time to the batch file in order for
 
 That's everything. I hope you have loads of fun playing around with this source code, enhancing your own SEUCK game creations. Let you games come to life. :)
 
-#Update in V2.0 
+# Update in V2.0 
 
 * New front end which displays credits screen and flips to high score table list
 * Options for in game sound effects or music 
@@ -54,7 +54,7 @@ That's everything. I hope you have loads of fun playing around with this source 
 * Enhancements are expandable
 * PAL/NTSC compatible (Although the score panel's lives will not be 100% on NTSC machines)
 
-#Update in V3.0
+# Update in V3.0
 
 * Custom front end charset animation (Please check out the Charpad CTM files to know which 8 chars represent the animation frames)
 * Custom in game background animation (Can scroll down, or left) 
@@ -62,14 +62,14 @@ That's everything. I hope you have loads of fun playing around with this source 
 * Custom level colour scheme code (Based on comparing values of the level counter by units of seven).
 * Power Ups (including sprite changing for bullets)
 
-#Bug fixes in V3
+# Bug fixes in V3
 
 * Player spawning at the top left of the screen, when safe respawn was disabled
 * Music player slowing down completely when trying to detect PAL/NTSC 
 * Title Screen Colour bug fixed (Where char multicolour 2 overwritten char multicolour 3)
 * Extra life bug issue fixed
 
-#Update in V4.0
+# Update in V4.0
 
 * Player score panel can now use multicolour (Use Charpad to design the 3 colours of your score panel, and then import into the source code).
 * Added a hi score saver (The hi score saver will automatically check that a disk is being used for your game, if mastered to tape, hi score saving/loading is skipped).
