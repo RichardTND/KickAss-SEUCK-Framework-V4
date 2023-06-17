@@ -84,7 +84,6 @@ That's everything. I hope you have loads of fun playing around with this source 
 
 That's everything featured. Older features are still supported in V4.0.
 
-V5.0 coming later in 2022. I'm mainly focusing on Cruiser-X 79 as a main project at the moment.
-
+V5.0 coming some time in the forseeable future, which will allow additional in game features.
 
 
